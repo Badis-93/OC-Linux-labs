@@ -19,7 +19,7 @@
 
 tree -shug ~/test_project
 
-![tree](screenshots/01-tree.png)
+![tree](screenshots/screenshots/01-tree.png)
 
 ## 📁 Структура проекта
 
